@@ -1,4 +1,4 @@
-package sk.lukasdancak.vfeticrviewer.entity;
+package sk.lukasdancak.vfeticrviewer.compositekey;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

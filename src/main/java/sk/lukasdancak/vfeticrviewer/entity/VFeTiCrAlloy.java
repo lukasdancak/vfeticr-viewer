@@ -7,9 +7,10 @@ import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import sk.lukasdancak.vfeticrviewer.compositekey.VFeTiCrAlloyId;
 
 @Entity
-@Table(name = "alloy")
+@Table(name = "vfeticr_alloy")
 @IdClass(VFeTiCrAlloyId.class)
 @Data
 @NoArgsConstructor
