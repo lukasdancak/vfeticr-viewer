@@ -1,7 +1,8 @@
 # VFeTiCr Viewer
+! under construction !
 
-## About web app
-This web application enables systematic exploration of quaternary alloys in the V-Fe-Ti-Cr system by using a database that contains all compositionally possible alloys with integer atomic percentages for each constituent element. Users can screen and filter candidate compositions according to scientifically relevant descriptors, including valence electron concentration (VEC), lattice parameter, and estimated raw-material cost for alloy preparation.
+## About this web app
+This web application enables (WILL ENABLE) systematic exploration of quaternary alloys in the V-Fe-Ti-Cr system by using a database that contains all compositionally possible alloys with integer atomic percentages for each constituent element. Users can screen and filter candidate compositions according to scientifically relevant descriptors, including valence electron concentration (VEC), lattice parameter, and estimated raw-material cost for alloy preparation.
 
 ## Local Setup
 
